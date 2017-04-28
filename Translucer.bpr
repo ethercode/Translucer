@@ -6,6 +6,8 @@
     <PROJECT value="Translucer.exe"/>
     <OBJFILES value="Translucer.obj untMain.obj"/>
     <RESFILES value="Translucer.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
     <DEFFILE value=""/>
     <RESDEPEN value="$(RESFILES) untMain.dfm"/>
     <LIBFILES value=""/>
